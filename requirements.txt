@@ -10,13 +10,13 @@ dash==0.17.7
 decorator==4.0.11
 flask-compress==1.4.0
 flask-seasurf==0.2.2
-flask==0.12.2
+flask==1.0
 geocoder==1.23.2
 gunicorn==19.7.1
 idna==2.5
 ipython-genutils==0.2.0
 itsdangerous==0.24
-jinja2==2.9.6
+jinja2==2.11.1
 jsonschema==2.6.0
 jupyter-core==4.3.0
 markupsafe==1.0
