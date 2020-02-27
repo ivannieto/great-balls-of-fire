@@ -5,7 +5,7 @@ Demo data visualizations made with Dash by Plot.ly for Python Vigo group 'lightn
 How to run this project locally:
 
 ```Bash
-git clone git@bitbucket.org:inieto/great-balls-of-fire.git
+git clone git@github.com:ivannieto/great-balls-of-fire.git
 cd great-balls-of-fire
 ```
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ### Export your Google Geocoding API Key - [[Get a key]](https://developers.google.com/maps/documentation/geocoding/intro?hl=es-419)
 ```Bash
-export GOOGLE_API_KEY='AIzaSyAgMa15p1oCEzUDs0MFQ2WgNiI6OQWQsjh'
+export GOOGLE_API_KEY='AIzaSyAgMsa15p1oCEzUDs0MFQ2WgNsiI6OQWQsjh'
 ```
 
 ### Run the project
