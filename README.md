@@ -2,6 +2,12 @@
 
 Demo data visualizations made with Dash by Plot.ly for Python Vigo group 'lightning talks' held on July 20th 2017.
 
+Project is deployed live on Heroku.
+
+[https://great-balls-of-fire.herokuapp.com](https://great-balls-of-fire.herokuapp.com)
+
+---
+
 How to run this project locally:
 
 ```Bash
@@ -39,6 +45,3 @@ python src/app
 
 Open [http://localhost:9000/](http://localhost:9000/)
 
-Project is deployed live on Heroku.
-
-[https://great-balls-of-fire.herokuapp.com](https://great-balls-of-fire.herokuapp.com)
