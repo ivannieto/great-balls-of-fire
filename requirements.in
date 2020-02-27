@@ -1,0 +1,11 @@
+cufflinks
+dash
+dash-renderer
+dash-html-components
+dash-core-components
+geocoder
+gunicorn
+pandas
+pandas_datareader
+plotly
+requests
